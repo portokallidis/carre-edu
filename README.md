@@ -71,3 +71,7 @@ Now the system is running on the default port 8080 and can be accessed at http:/
 [MIT License (MIT)](https://raw.githubusercontent.com/telemed-duth/carre-edu/master/LICENSE.txt)
 ------------
 Copyright (c) 2014 Democritus University of Thrace (DUTH) , Greece
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/portokallidis/carre-edu/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
